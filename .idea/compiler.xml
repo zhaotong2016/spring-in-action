@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.dctp.cloud.dctp-cloud-admin.main" target="1.8" />
+      <module name="com.dctp.cloud.dctp-cloud-admin.test" target="1.8" />
+      <module name="com.dctp.cloud.spring-demo.main" target="1.8" />
+      <module name="com.dctp.cloud.spring-demo.test" target="1.8" />
+      <module name="com.hunter.demo.spring-demo.main" target="1.8" />
+      <module name="com.hunter.demo.spring-demo.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

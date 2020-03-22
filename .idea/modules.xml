@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dctp.cloud.dctp-cloud-admin.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dctp.cloud.dctp-cloud-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dctp.cloud.dctp-cloud-admin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dctp.cloud.dctp-cloud-admin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dctp.cloud.dctp-cloud-admin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dctp.cloud.dctp-cloud-admin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dctp.cloud.spring-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dctp.cloud.spring-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dctp.cloud.spring-demo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dctp.cloud.spring-demo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dctp.cloud.spring-demo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dctp.cloud.spring-demo.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dctp-cloud-admin.iml" filepath="$PROJECT_DIR$/.idea/modules/dctp-cloud-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-in-action.iml" filepath="$PROJECT_DIR$/spring-in-action.iml" />
+    </modules>
+  </component>
+</project>
